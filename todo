@@ -1,0 +1,15 @@
+Things To Do:
+
+1. managed enabled vnet = true set up 
+
+2. use keyvault to refer to sql admin 
+
+3. add vnet to other resources 
+
+4. subnet particular resources e.g. keyvault 
+
+5. Integration_runtime 
+
+6. https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/synapse_integration_runtime_self_hosted
+
+7. 
